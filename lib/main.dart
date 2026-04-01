@@ -183,7 +183,7 @@ class ContactPage extends StatelessWidget {
             const CircleAvatar(
               radius: 60,
               backgroundImage: NetworkImage(
-                  'https://cdn-icons-png.flaticon.com/512/3135/3135715.png'), // รูปโปรไฟล์ตัวอย่าง
+                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9pWNBQLodeJnEOHCrKHIhO19PTzVO_13UQ&s'), // รูปโปรไฟล์ตัวอย่าง
             ),
             const SizedBox(height: 20),
             const Card(
